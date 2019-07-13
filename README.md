@@ -2,6 +2,9 @@
 # Developed with Java 
 # Created by Maj Alshibly
 
+![alt text](https://github.com/Maj100/Business-Intelligence-Query/blob/master/8.png)
+
+
 # Introduction
 
 Business Intelligence tools have their place in applications, technology and practices for the purpose of integration, analysis of a business raw data. Business intelligence is used for disciplines such as data mining, queries and reporting on data by using charts and graphs. These business intelligence tools can be created using different methods and become incorporated in many software applications. Examples would be using business tools from a website or an application. These tools are extremely useful for data visualization, reporting on the tools and data analytics. Google analytics is a good example as they use different charts, graphs and data to measure a website&#39;s traffic. Google analytics&#39; users can determine which methods to improve a website&#39;s traffic through these data analysis. It is the same attribute with business owners that want to keep track of their business revenue and identifying market trends.
