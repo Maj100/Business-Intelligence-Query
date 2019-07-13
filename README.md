@@ -1,6 +1,6 @@
 # Business-Intelligence-Query
-#Developed with Java 
-#Created by Maj Alshibly
+# Developed with Java 
+# Created by Maj Alshibly
 
 # Introduction
 
