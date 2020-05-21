@@ -1,6 +1,6 @@
 # Business-Intelligence-Query
 # Developed with Java 
-# Created by Maj Alshibly
+# Created by Maj.A
 
 ![alt text](https://github.com/Maj100/Business-Intelligence-Query/blob/master/8.png)
 
